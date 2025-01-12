@@ -1,4 +1,4 @@
-// filepath: /D:/movieDB/controllers/movie-controller.js
+
 const cache = require('../config/node-cache')
 const tmdbAPI = require('../config/tmdb')
 const createMovie = require('../models/movie-model')
